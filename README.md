@@ -1,4 +1,4 @@
-# Student-portal-demo
+# Student
 Basic idea for a student portal application
 ----------------------------------------
          DEMO PORTAL - TEXT VERSION
